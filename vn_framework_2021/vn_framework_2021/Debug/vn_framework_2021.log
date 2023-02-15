@@ -1,0 +1,3 @@
+﻿D:\work_vn\2021\GP21\vn_framework_2021\vn_framework_2021\shader\ps_2d.psh(18,26-36): error X4502: invalid vs_2_0 output semantic 'SV_Target'
+  
+  compilation failed; no code produced
